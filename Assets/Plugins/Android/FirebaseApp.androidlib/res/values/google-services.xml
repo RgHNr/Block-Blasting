@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://blastgame-d3475-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">82016499730</string>
+  <string name="google_storage_bucket" translatable="false">blastgame-d3475.firebasestorage.app</string>
+  <string name="project_id" translatable="false">blastgame-d3475</string>
+  <string name="google_api_key" translatable="false">AIzaSyDlYU8g6zjqwGBgghoIMKFuYRYkAgKM6BM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlYU8g6zjqwGBgghoIMKFuYRYkAgKM6BM</string>
+  <string name="google_app_id" translatable="false">1:82016499730:android:606ee4f43c837f7d2bc0cb</string>
+</resources>

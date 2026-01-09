@@ -17,6 +17,10 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+
+# Ignore Firebase config
+/[Aa]ssets/google-services.json
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 

@@ -17,7 +17,7 @@ A vibrant, arcade-style block blasting game where strategy meets high-speed acti
 * **Special Power-ups:** Fuse 3 blocks of the same color together to free up slot spaces
 * **High Score System:** Local save system to track your best runs.
 <p align="center">
-  <img src="LevelEditorScreenshot.png" width="45%" />
+  <img src="levelEditorScreenShot.png" width="45%" />
 
 </p>
 ##  How to Play

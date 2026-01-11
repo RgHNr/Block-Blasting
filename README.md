@@ -2,7 +2,9 @@
 
 A vibrant, arcade-style block blasting game where strategy meets high-speed action.
 
-
+<p align="center">
+  <img src="Timeline5.gif" width="91%" alt="Gameplay Demo" />
+</p>
 
 
 ##  Screenshots
